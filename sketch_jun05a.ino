@@ -22,7 +22,7 @@
   Thread wheelThread = Thread();
 
   // Definição do controlador de threads.
-  ThreadController controllet = ThreadController();
+  ThreadController controller = ThreadController();
 
   // ------------------------Seção das funções---------------------------------
 
